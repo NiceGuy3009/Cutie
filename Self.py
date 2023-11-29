@@ -21,7 +21,7 @@ with st.container():
         ABOUT;\n
          -CULTURE & FOOD\n
          -TOP EVENTS & FESTIVALS\n
-        THINGS YOU CAN DO IN SIARGAO\n)
+        THINGS YOU CAN DO IN SIARGAO\n
          -SURFING\n
          -SUNRISE AND SUNSETS\n
          -ISLAND HOPPING\n
