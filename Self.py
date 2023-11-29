@@ -9,15 +9,28 @@ with st.container():
     st.title("A Student of BSCPE 1B")
     st.write("I am here to show you the beauty of siargao.")
 
-# ---- WHAT I DO ----
+# ---- WHAT TO KNOW ----
 with st.container():
    st.write("---")
    left_column, right_column = st.columns(2)
    with left_column:
-      st.header("What I do")
+      st.header("What To Know")
       st.write("##")
       st.write(
          """ 
-         
+        ABOUT;\n
+         -CULTURE & FOOD\n
+         -TOP EVENTS & FESTIVALS\n
+        THINGS YOU CAN DO IN SIARGAO\n)
+         -SURFING\n
+         -SUNRISE AND SUNSETS\n
+         -ISLAND HOPPING\n
+         -SUGBA LAGOON\n
+         -CLIFF JUMPING
+         -TAYANGBAN CAVE POOLS\n
+         -TAKTAK WATERFALL\n
+         -BUCAS GRANDE’S LAGOON\n
+         -PACIFICO BEACH\n
+         -LOCAL COMMUNITY MARKET 
          """
       )
