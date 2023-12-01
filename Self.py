@@ -16,7 +16,7 @@ lottie_coding2 = load_lottieurl("https://lottie.host/bc0f39f3-1b10-4569-994f-f86
 
 # ----HEADER SECTION----
 with st.container():  
-    st.subheader("Hi, I am Algen Marc :happy:")
+    st.subheader("Hi, I am Algen Marc :bravo:")
     st.title("A Student of BSCPE 1B")
     st.write("I am here to show you the beauty of SIARGAO.")
 
