@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 
 # Find more imojis here: https://www.webfx.com/tools/emoji-cheat-sheet/ 
-st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="Mine Only", page_icon=":tada:", layout="wide")
 
 def load_lottieurl(url):
    r = requests.get(url)
@@ -16,7 +16,7 @@ lottie_coding2 = load_lottieurl("https://lottie.host/bc0f39f3-1b10-4569-994f-f86
 
 # ----HEADER SECTION----
 with st.container():  
-    st.subheader("Hi, I am Algen Marc :wave:")
+    st.subheader("Hi, I am Algen Marc :happy:")
     st.title("A Student of BSCPE 1B")
     st.write("I am here to show you the beauty of SIARGAO.")
 
