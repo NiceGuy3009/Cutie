@@ -12,6 +12,7 @@ def load_lottieurl(url):
    return r.json()
 # ---- LOAD ASSETS ----
 lottie_coding =  load_lottieurl("https://lottie.host/b3c4efbf-3c67-42b2-ba03-e6e5da2afac5/jXNg2IN9E7.json")
+lottie_coding2 = load_lottieurl("https://lottie.host/b3c4efbf-3c67-42b2-ba03-e6e5da2afac5/jXNg2IN9E7.json")
 
 # ----HEADER SECTION----
 with st.container():  
